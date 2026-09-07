@@ -1,4 +1,4 @@
-FROM docker.io/rocketchat/rocket.chat:latest
+FROM docker.io/rocketchat/rocket.chat:8.8.0
 
 USER root
 
